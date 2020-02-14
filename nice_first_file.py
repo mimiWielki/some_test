@@ -4,7 +4,7 @@ some nice docstring
 
 import sys
 
-print(sys.executable)
+# print(sys.executable)
 
 
 
