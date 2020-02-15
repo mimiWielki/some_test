@@ -21,4 +21,7 @@ print(sys.executable)
 
 # lerytgo
 
+
+# ale bajera
+
 #test
