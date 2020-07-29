@@ -6,6 +6,3 @@ print(os.environ)
 
 
 # test for check 3
-
-
-# check for check 4
